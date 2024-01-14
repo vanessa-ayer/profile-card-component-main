@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-jVOJ9Fv-6n).
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-jVOJ9Fv-6n).
 
 ## Table of contents
 

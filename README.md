@@ -25,9 +25,7 @@ Your challenge is to build out this profile card component and get it looking as
 ### Links
 
 - Solution URL: 
-- Live Site URL: 
-
-## My process
+- Live Site URL: https://vanessa-ayer.github.io/profile-card-component-main/
 
 ### Built with
 
@@ -46,9 +44,6 @@ Code snippet below
   background-position: right 48vw bottom 47vh, left 53vw top 46vh;
 ```
 
-```
-
-```
 
 ## Author
 

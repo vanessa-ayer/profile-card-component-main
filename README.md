@@ -24,7 +24,7 @@ Your challenge is to build out this profile card component and get it looking as
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-component-G20_zhqQ7u
 - Live Site URL: https://vanessa-ayer.github.io/profile-card-component-main/
 
 ### Built with
